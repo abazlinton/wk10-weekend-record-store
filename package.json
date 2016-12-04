@@ -1,0 +1,11 @@
+{
+  "name": "record_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha record_store.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
